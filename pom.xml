@@ -3,4 +3,8 @@
   <groupId>eviden</groupId>
   <artifactId>SepDel23</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <build>
+    <finalName>SepDel23</finalName>
+  </build>
 </project>
